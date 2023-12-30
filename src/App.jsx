@@ -18,7 +18,7 @@ const App = () => {
               </a>
             </a>
           </div>
-          <a href="#" className=" text-xs font-semibold">
+          <a href="#" className=" text-xs font-medium">
             You
           </a>
         </li>
@@ -32,7 +32,7 @@ const App = () => {
               />
             </a>
           </div>
-          <a href="#" className=" text-xs font-semibold">
+          <a href="#" className=" text-xs font-medium">
             Spiderman
           </a>
         </li>
@@ -46,7 +46,7 @@ const App = () => {
               />
             </a>
           </div>
-          <a href="#" className=" text-xs font-semibold">
+          <a href="#" className=" text-xs font-medium">
             Thor
           </a>
         </li>
@@ -60,7 +60,7 @@ const App = () => {
               />
             </a>
           </div>
-          <a href="#" className=" text-xs font-semibold">
+          <a href="#" className=" text-xs font-medium">
             Captain America
           </a>
         </li>
@@ -74,7 +74,7 @@ const App = () => {
               />
             </a>
           </div>
-          <a href="#" className=" text-xs font-semibold">
+          <a href="#" className=" text-xs font-medium">
             Hulk
           </a>
         </li>
