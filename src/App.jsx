@@ -15,7 +15,7 @@ const App = () => {
               className=" relative block rounded-full bg-white p-1 max-sm:p-[3px]"
             >
               <img
-                className=" h-20 w-20 rounded-full object-cover hover:brightness-90 max-sm:h-10 max-sm:w-10"
+                className=" h-20 w-20 rounded-full object-cover hover:brightness-90 max-sm:h-12 max-sm:w-12"
                 src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/MSNBC/Components/Photo/_new/100506-ironman2-hmed.jpg"
                 alt="ironman"
               />
@@ -38,7 +38,7 @@ const App = () => {
               className="block rounded-full bg-white p-1 max-sm:p-[3px]"
             >
               <img
-                className=" h-20 w-20  rounded-full object-cover hover:brightness-90 max-sm:h-10 max-sm:w-10"
+                className=" h-20 w-20  rounded-full object-cover hover:brightness-90 max-sm:h-12 max-sm:w-12"
                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTic63nTx3MLQ3CPMPQ4H_wmk1qQgyHu10wrw&usqp=CAU"
                 alt="spiderman"
               />
@@ -57,7 +57,7 @@ const App = () => {
               className="block rounded-full bg-white p-1 max-sm:p-[3px]"
             >
               <img
-                className=" h-20 w-20 rounded-full object-cover hover:brightness-90 max-sm:h-10 max-sm:w-10"
+                className=" h-20 w-20 rounded-full object-cover hover:brightness-90 max-sm:h-12 max-sm:w-12"
                 src="https://cdn.britannica.com/73/182873-050-E1C686F4/Chris-Hemsworth-Thor-Thor-The-Dark-World.jpg"
                 alt="thor"
               />
@@ -76,7 +76,7 @@ const App = () => {
               className="block rounded-full bg-white p-1 max-sm:p-[3px]"
             >
               <img
-                className=" h-20 w-20 rounded-full object-cover hover:brightness-90 max-sm:h-10 max-sm:w-10"
+                className=" h-20 w-20 rounded-full object-cover hover:brightness-90 max-sm:h-12 max-sm:w-12"
                 src="https://wallpapers.com/images/featured/captain-america-uymfdo8a063hcbxb.jpg"
                 alt="captain america"
               />
@@ -95,7 +95,7 @@ const App = () => {
               className="block rounded-full bg-white p-1 max-sm:p-[3px]"
             >
               <img
-                className=" h-20 w-20 rounded-full object-cover hover:brightness-90 max-sm:h-10 max-sm:w-10"
+                className=" h-20 w-20 rounded-full object-cover hover:brightness-90 max-sm:h-12 max-sm:w-12"
                 src="https://hips.hearstapps.com/hmg-prod/images/hulk-thor-ragnarok-2-1548346471.jpg?crop=0.503xw:1.00xh;0.142xw,0&resize=1200:*"
                 alt="hulk"
               />
